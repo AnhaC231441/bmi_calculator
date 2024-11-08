@@ -1,7 +1,7 @@
 # bmi_calculator
 
 A new Flutter project.
-
+![images](assets/images/img.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
